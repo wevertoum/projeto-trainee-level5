@@ -1,0 +1,154 @@
+body {
+  background-color: #FFF;
+  margin: 0;
+  padding: 0;
+}
+
+.texto_1 {
+  font-family: 'Pathway Gothic One';
+  font-size: 25px;
+  color: #fff;
+  font-weight: 100;
+  line-height: 100px;
+  padding-top: 0%;
+  margin: auto;
+  text-align: center;
+  width: 60%;  
+}
+.texto_2 {
+  font-family: 'Pathway Gothic One';
+  font-size: 25px;
+  color: #fff;
+  font-weight: 100;
+  line-height: 100px;
+  padding-top: 0%;
+  margin: auto;
+  text-align: center;
+  width: 60%;  
+}
+.texto_3 {
+  font-family: 'Pathway Gothic One';
+  font-size: 25px;
+  color: #fff;
+  font-weight: 100;
+  line-height: 100px;
+  padding-top: 0%;
+  margin: auto;
+  text-align: center;
+  width: 60%;  
+}
+
+.main {
+  background-image: url('imagens/backgroundd.png');
+  background-repeat: no-repeat;
+  background-size:100%;
+  bottom: 0;
+  color: black;
+  left: 0;
+  overflow: auto;
+  padding: 3em;
+  position: absolute;
+  right: 0;
+  text-align: center;
+  top: 0;
+  background-size: cover;
+}
+
+.value-props {
+  border: 1px solid #FFF;
+  margin: 50px right;
+  width: 80%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#ul {
+ display:auto;
+ justify-content:center;
+ align-items:center;
+}
+
+.quadro {
+  display:inline-block;
+  border-radius: 2px;
+  margin: 5px 20px;
+  text-decoration:none;
+  padding:10px 50px;
+  border:1px solid #ccc;
+  background-color:#f2f2f2;
+  color:#333;
+  font:19px Pathway Gothic One, sans-serif;
+}
+.quadro:hover{
+  border-color:#aaa;
+}
+
+.prop {
+  padding-top: 5px;
+  border: 1px solid #FFF;
+  width: 80%;
+  height: 100px;
+  margin-bottom: 30px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.slide1 {
+  width: 95px;
+  height: 95px;
+  margin-left: auto;
+  margin-right: auto; 
+  margin-top: auto;
+  margin-bottom: auto; 
+  float:left;
+  margin-left: 10px;
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: 3px 3px 5px #555;
+}
+.slide1 ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+.slide2 {
+  width: 95px;
+  height: 95px;
+  margin-left: auto;
+  margin-right: auto; 
+  margin-top: auto;
+  margin-bottom: auto; 
+  float:left;
+  margin-left: 10px;
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: 3px 3px 5px #555;
+}
+.slide2 ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+.slide3 {
+  width: 95px;
+  height: 95px;
+  margin-left: auto;
+  margin-right: auto; 
+  margin-top: auto;
+  margin-bottom: auto; 
+  float:left;
+  margin-left: 10px;
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: 3px 3px 5px #555;
+}
+.slide3 ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.prop h2 {
+  font-family: 'Pathway Gothic One';
+  font-size: 24px;
+}
